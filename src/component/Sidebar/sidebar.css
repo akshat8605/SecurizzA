@@ -1,0 +1,157 @@
+.drawer-root{
+    overflow: hidden;
+}
+.drawer{
+    width: 268px;
+    height: 931.9px;
+    box-shadow: 0 8px 12px 4px #e6e6e6;
+    border: solid 1px #979797;
+    background-color: #665eff;
+}
+.hello-bruce{
+    width: 211px;
+    height: 34px;
+    font-size: 28px !important;
+    font-weight: 500 !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal !important;
+    color: #ffffff;
+    margin-top: 56.4px !important;
+    margin-left: 23px !important;
+  }
+  .Title-Copy {
+    width: 118px;
+    height: 19px;
+    opacity: 0.9;
+    font-family: HelveticaNeue;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal !important;
+    color: #ffffff;
+    margin-left: 23px !important;
+    margin-top: 20px !important;
+  }
+  .Title-Copy-2 {
+    width: 197px;
+    height: 42px;
+    opacity: 0.9;
+    font-family: HelveticaNeue;
+    font-size: 16px !important;
+    font-weight: normal ;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal !important;
+    color: #ffffff;
+    margin-left: 23px !important;
+    margin-top: 8.6px !important;
+  }
+  .MuiAccordion-root{
+      background-color: #665eff !important;
+      margin-left: 23px !important;
+  }
+  .MuiAccordion-root:before{
+      background-color: #665eff !important;
+  }
+  .MuiPaper-elevation1{
+      box-shadow: none !important;
+  }
+  .ONBOARDING-SETUP {
+    height: 19px;
+    font-family: SFUIDisplay;
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+  .MuiIconButton-edgeEnd{
+      margin-right: 0px !important;
+  }
+  .Add-Users {
+    width: 78px;
+    height: 19px;
+    font-family: HelveticaNeue;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+  .done{
+    width: 13px;
+    height: 9px;
+    color:  #40e28b;
+    margin:auto;
+  }
+  .done-container{
+    width: 25px;
+    height: 25px;
+    background-color: #ffffff;
+    border-radius: 100%;
+    margin-right: 23px;
+  }
+  .add-user-container{
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+      margin-top: 23px;
+  }
+  .Rectangle-button {
+    width: 235px;
+    height: 48px;
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255, 0.28);
+    margin-left: -10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 23px;
+  }
+  .Install-Software {
+    width: 60%;
+    height: 18px;
+    font-family: HelveticaNeue;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+  .-of-2 {
+    width: 30%;
+    height: 16px;
+    font-family: HelveticaNeue;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+  .Product-walkthrough {
+    width: 100%;
+    height: 18px;
+    opacity: 0.8;
+    font-family: HelveticaNeue;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-top: 23px !important;
+  }

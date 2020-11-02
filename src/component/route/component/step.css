@@ -1,0 +1,268 @@
+.step-head{
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+}
+.dot-container{
+  padding: 12px;
+  margin-left: -40px;
+}
+.dot {  
+  width: 10px;
+  height: 10px;  
+  border: solid 1px #e0e0e0;
+  background-color: #ffffff;
+  border-radius: 50%;
+  display: inline-block;
+  margin:6.5px;
+}
+.dot-done {  
+  width: 10px;
+  height: 10px;  
+  background-color: #665eff;
+  border: solid 1px #e0e0e0;
+  border-radius: 50%;
+  display: inline-block;
+  margin:6.5px;
+}
+.step-root{
+  padding-left: 95px;
+  padding-top: 106px;
+}
+.INSTALL-SOFTWARES {
+    width: 40%;
+    height: 19px;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal !important;
+    letter-spacing: normal !important;
+    color: #2a2e43;
+  }
+  .Ill-do-this-later {
+    width: auto;
+    height: 18px;
+    font-size: 12px;
+    font-weight: normal !important;
+    padding: 15px !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal !important;
+    color: #3498fd !important; 
+    margin-right: 110px !important;
+  }
+  .Get-Securizza-instal {
+    font-family: SFUIDisplay;
+    font-size: 36px !important;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #2a2e43;
+  }
+  .Securizza-uses-an-ef {
+    width: 815px;
+    font-family: HelveticaNeue;
+    font-size: 18px !important;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    color: #78849e;
+  }
+  .paper-root{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      width: 680px;
+      margin-top: 48px;
+      padding: 20px;
+      border-radius: 12px !important;
+      border: solid 0.3px #979797 !important;
+  }
+  
+  .Title-Copy-8 {
+    width: 369px;
+    height: 22px;
+    font-family: HelveticaNeue;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal !important;
+    letter-spacing: normal !important;
+    color: #545454;
+  }
+  .Title-Copy-9 {
+    width: 321px;
+    font-family: HelveticaNeue;
+    font-size: 16px !important;
+    font-weight: normal !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.13;
+    letter-spacing: normal !important;
+    color: #545454;
+    margin-top: 8px !important;
+  }
+  .Title-Copy-10 {
+    height: 18px;
+    font-family: HelveticaNeue;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    color: #545454 !important;
+    margin-top: 14px !important;
+  }
+  
+  .Title-Copy-10 .text-style-1 {
+    color: #1f8efa;
+  }
+  .link{
+      margin-right: 10px;
+      padding: auto;
+  }
+  .copy-link-button{
+    width: 150px;
+    height: 48px;
+    background-color: #665eff !important;
+  }
+  .step1-button-container{
+    display:flex;
+   margin-top: 342px;
+   margin-bottom:120px;
+   margin-right: 110px;
+   justify-content: flex-end;
+  }
+  .Step-1-of-1 {
+    opacity: 0.6;
+    font-family: HelveticaNeue;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #78849e !important;
+    padding: 12px;
+    margin-right: 24px !important;
+  }
+  .goBack {
+    font-family: OpenSans;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: center;
+    color: #2a2e43 !important;
+    margin-right: 31px !important;
+  }
+  a{
+    color: #1f8efa;
+    text-decoration: none;
+  }
+  .select-container{
+    position: relative;
+    justify-content: space-between;
+    width: 100%;
+    display: flex;
+     padding:20px;
+    border-radius: 4px;
+    border: solid 1px #e1e1e1;
+  }
+  .select-label{
+    position: absolute;
+    top:-10px;
+    left:20px;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #545454;
+  }
+  .select1{
+    width:35%;
+    border: solid 2px #665eff;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  .select2{
+    width:45%;
+    background-color: rgba(120, 132, 158, 0.09);
+  }
+  .MuiInput-underline:before{
+    border-bottom: none !important;
+  }
+@media (max-width: 1000px){
+  .Ill-do-this-later{
+    margin-right: 55px !important;
+  }
+  .Securizza-uses-an-ef{
+    width: auto;
+  }
+  .Get-Securizza-instal{
+    font-size: 29px!important;
+  }
+  .step-root{
+    padding-left: 75px;
+    padding-top: 75px;
+  }
+  .paper-root{
+    width: auto;
+    position: relative;
+    margin-right: 10px;
+  }
+  .step1-button-container{
+    margin-top: 242px;
+    margin-right: 10px;
+  }
+  }  
+  @media (max-width: 800px){
+    .Ill-do-this-later{
+      margin-right: 35px !important;
+    }
+    .Get-Securizza-instal{
+      font-size: 29px!important;
+    }
+    .step-root{
+      padding-left: 25px;
+      padding-top: 25px;
+    }
+    .paper-root{
+      width: auto;
+      position: relative;
+      margin-right: 10px;
+      flex-direction: column;
+    }
+    .copy-link-container{
+      margin-top: 10px;
+    }
+    .step1-button-container{
+      margin-top: 142px;
+      margin-right: 10px;
+    }
+    }
+    @media (max-width: 600px){
+      .step1-button-container{
+        margin-top: 42px;
+      }
+      .step-root{
+        padding-left: 15px;
+        padding-top: 15px;
+      }
+    }
